@@ -6,3 +6,5 @@ const msg = getNotes();
 console.log(msg);
 
 console.log(chalk.green('Hello world!'));
+console.log(chalk.red('Hello world!'));
+console.log(chalk.blueBright('Hello world!'));
