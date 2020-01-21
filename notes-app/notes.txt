@@ -1,2 +1,0 @@
-This file was created by node.js
-Here is new sentence!
